@@ -15,7 +15,7 @@
           "label": "FormData to Postman",
           "submenu": [
             {
-              "label": "Convert FormData to Postman format",
+              "label": "Convert form data to Postman body",
               "command": "form-data-to-postman:convert"
             }
           ]
