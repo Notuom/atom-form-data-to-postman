@@ -1,7 +1,7 @@
 {
   "name": "form-data-to-postman",
   "main": "./lib/form-data-to-postman",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Convert FormData to Postman format",
   "keywords": [
     "FormData",
@@ -17,6 +17,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
