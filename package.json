@@ -1,7 +1,7 @@
 {
   "name": "form-data-to-postman",
   "main": "./lib/form-data-to-postman",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Convert FormData to Postman format",
   "keywords": [
     "FormData",
@@ -12,7 +12,7 @@
   "activationCommands": {
     "atom-workspace": "form-data-to-postman:convert"
   },
-  "repository": "https://github.com/Notuom/form-data-to-postman",
+  "repository": "https://github.com/Notuom/atom-form-data-to-postman",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
