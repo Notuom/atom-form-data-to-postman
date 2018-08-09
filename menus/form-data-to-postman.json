@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Convert form data to Postman body",
+        "command": "form-data-to-postman:convert"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "FormData to Postman",
+          "submenu": [
+            {
+              "label": "Convert FormData to Postman format",
+              "command": "form-data-to-postman:convert"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
